@@ -1,0 +1,60 @@
+.User-Container,span { 
+    
+    background-color: #1A1919;
+    color: white;
+    text-align: left;
+}
+.image-circle {
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+    background-color: #1A1919;
+    border-radius:50%
+}
+.userLocationbox {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 60px;
+    width: 300px;
+    background-color: #292828;
+}
+
+.DMSbox {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 1100px;
+    width: 300px;
+    background-color: #3e3e3e;
+}
+
+.pixelline {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 1200px;
+    width: 1px;
+    background-color: #C900AB;
+}
+
+.pixelline2 {
+    position: fixed;
+    bottom: 61px;
+    left: 0;
+    height: 1px;
+    width: 300px;
+    background-color: #C900AB;
+}
+.pixelline3 {
+    position: fixed;
+    bottom: 1px;
+    left: 0;
+    height: 1px;
+    width: 300px;
+    background-color: #C900AB;
+}
+.username {
+}
+.usernamehashtag {
+}
