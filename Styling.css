@@ -83,6 +83,9 @@
     width: 1812px;
     background-color: #525151;
     border-radius: 10px;
+    height: 400px;
+    background-image: url('img_flowers.jpg');
+    background-size: 100% 100%;
 }
 
 
@@ -95,34 +98,14 @@
     background-color: #3e3e3e;
 }
 
-
-
-.pixelline {
+.callbox {
     position: fixed;
-    top: 0;
-    left: 0;
-    height: 1500px;
-    width: 1px;
-    background-color: #C900AB;
-}
-
-.pixelline2 {
-    position: fixed;
-    bottom: 61px;
-    left: 0;
-    height: 1px;
-    width: 300px;
-    background-color: #C900AB;
-}
-.pixelline3 {
-    position: fixed;
-    bottom: 1px;
-    left: 0;
-    height: 1px;
-    width: 300px;
-    background-color: #C900AB;
-}
-.username {
-}
-.usernamehashtag {
+    top: 20px;
+    left: 460px;
+    height: 45px;
+    width: 200px;
+    background-color: #737272;
+    border-radius: 10px;
+    offset-anchor: left;
+    
 }
