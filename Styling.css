@@ -12,7 +12,7 @@
     width: 1.9%;
     font-size: 30%;
     background-color: #1A1919;
-    border-radius:50%
+    border-radius: 5vh;
 }
 .image-logo {
     position: fixed;
@@ -33,7 +33,7 @@
     top: 6%;
     left: 0.3%;
     background-color: #2c2c2c;
-    border-radius: 15px;
+    border-radius: 1vh;
     width: 15%;
     height: 88.2%;
 }
@@ -51,7 +51,7 @@
     position: fixed;
     bottom: 2.4%;
     background-color: #656565;
-    border-radius: 10px;
+    border-radius: 1vh;
     right: 1%;
     width: 82.3%;
     height: 6%;
@@ -64,7 +64,7 @@
     height: 0px;
     width: 100px;
     background-color: #656565;
-    border-radius: 10px;
+    border-radius: 1vh;
 }
 
 .Topbarpfp {
@@ -74,7 +74,7 @@
     height: 3.4%;
     width: 2%;
     background-color: #656565;
-    border-radius:50%
+    border-radius: 5vh;
 }
 
 .premessagetext {
@@ -88,7 +88,7 @@
     bottom: 0.5%;
     right: 0.5%;
     background-color: #525151;
-    border-radius: 10px;
+    border-radius: 1vh;
     height: 91.7%;
     width: 83.5%;
 }
@@ -110,7 +110,7 @@
     height: 4.4%;
     width: 10%;
     background-color: #737272;
-    border-radius: 10px;
+    border-radius: 1vh;
     offset-anchor: left;
     
 }
