@@ -65,25 +65,16 @@ YYYY             YYYYZZZZZZZZZZZZZZZZZZZZZ
 <script type="text/javascript">
     if (screen.width <= 699) {
     document.location = "https://m.speakmore.olayzen.lol/";
+    window.location.reload();
     }
 </script>
 
 <script type="text/javascript">
     if ((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i))) {
     location.replace("https://m.speakmore.olayzen.lol/");
+    window.location.reload();
     }
 </script>
-
-<script>
-    $( window ).resize(function() {
-    window.location.reload();
-    });
-</script>
-<script>
-    screen.addEventListener("orientationchange", function() {
-        window.location.reload();
-      });
-    </script>
 </body>
 </html> 
 
