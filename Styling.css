@@ -126,10 +126,14 @@
 .usernamehashtag {
     position: absolute;
     left: 2.8%;
-    top: 96.5%;
+    bottom: 0.5vh;
     font-size: 0.8vw;
     color: rgb(147, 147, 147);
     background-color: transparent;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
 }
 
 @font-face{
